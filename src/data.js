@@ -6,7 +6,7 @@ import Job from "./assets/Create-Next-App.png";
 import pratham from "./assets/Bootstrap-demo.jpg";
 import crudApp from "./assets/Crud-Application.jpg";
 import careerwallet from "./assets/careerwallet.png";
-
+import tablemanagement from "./assets/tablemanagement.png";
 
 export const filters = [
   {
@@ -69,7 +69,7 @@ export const projects = [
     name: "TabelManagement",
     dis: "This project is based on the react with db.json to manage user details and product details.dynamanic table with debounce search functionality, This is only for the desktop.",
     ts: "Tech Stack : CSS, HTML, Boostrap,Axios, Router ,Firebase , Formik,Yup",
-    image: crudApp,
+    image: tablemanagement,
     link:"https://tablemanagement.vercel.app/",
     tags: ["Indvidual"],
   },
