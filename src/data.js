@@ -53,7 +53,7 @@ export const projects = [
     name: "Job Platform",
     dis: "Crafted a sophisticated desktop job platform offering robust search, sort, and secure authentication features. Seamlessly connecting job seekers with opportunities, enhancing their employment journey.",
     ts: "Tech Stack : NextJs,Redux Toolkit, Tailwind CSS, Axios, ",
-    link: "https://job-list-assignment-mu.vercel.app/",
+    link: "https://job-portal46.vercel.app/",
     image: Job,
     tags: ["Indvidual"],
   },
@@ -61,7 +61,7 @@ export const projects = [
     name: "Crud Application",
     dis: "Crud Application enabling superadmins to edit/delete, admins with limited access, and users to view product details. Streamlined access control for efficient management and enhanced user experience.",
     ts: "Tech Stack : CSS, HTML, Boostrap,Axios, Router ,db.json , Formik,Yup",
-    link: "https://crud-app-two-green.vercel.app/",
+    link: "https://crudapp-46.vercel.app/",
     image: crudApp,
     tags: ["Indvidual"],
   },
@@ -70,12 +70,13 @@ export const projects = [
     dis: "This project is based on the react with db.json to manage user details and product details.dynamanic table with debounce search functionality, This is only for the desktop.",
     ts: "Tech Stack : CSS, HTML, Boostrap,Axios, Router ,Firebase , Formik,Yup",
     image: crudApp,
+    link:"https://tablemanagement.vercel.app/",
     tags: ["Indvidual"],
   },
  
   {
     name: "CareerWallet",
-    dis: " Created a user-friendly job aggregator, simplifying career searches. Utilized React and Node.js to enhance efficiency and accessibility, facilitating smoother transitions into desired professions.",
+    dis: " Created a user-friendly job aggregator, simplifying career searches.  enhance efficiency and accessibility with the help of optimize code , facilitating smoother transitions into desired professions.",
     ts: "Tech Stack : CSS, HTML, Boostrap,Php",
     link: "https://thecareerwallet.com/",
     image: careerwallet,
@@ -83,7 +84,8 @@ export const projects = [
   },
   {
     name: "PrathamOnline",
-    dis: "Established an educational hub empowering youth development. Employed React and Node.js to foster interactive learning experiences, aiding in the journey towards individual success.",
+    dis: "This is a lannding page of the website with image optimization and responsive for all the device ,Employed React to foster interactive learning experiences, aiding in the journey towards individual success.
+     
     ts: "Tech Stack : CSS, HTML, Boostrap,React ",
     link: "https://prathamonline.vercel.app/",
     image: pratham,
