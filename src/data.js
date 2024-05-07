@@ -95,7 +95,7 @@ export const projects = [
   },
  
 ];
-// Created a user-friendly job aggregator, simplifying career searches. Utilized React and Node.js to enhance efficiency and accessibility, facilitating smoother transitions into desired professions.
+// Created a user-friendly job aggregator, simplifying career searches. Utilized React and Node.js to enhance efficiency and accessibility, facilitating smoother transitions into desired professions.",
 export const achievements = [
   {
     id: 1,
