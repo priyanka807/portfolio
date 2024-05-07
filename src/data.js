@@ -8,6 +8,8 @@ import crudApp from "./assets/Crud-Application.jpg";
 import careerwallet from "./assets/careerwallet.png";
 import tablemanagement from "./assets/tablemanagement.png";
 
+
+
 export const filters = [
   {
     name: "All",
